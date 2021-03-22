@@ -4,6 +4,8 @@
 
 IBoxsForGQ是C#基于格子吧机器人框架开发的插件SDK；
 
+格子吧QQ机器人框架是基于安卓协议的多线程机器人，官网地址：https://robot.itgz8.com
+
 
 
 ### 系统鸣谢
